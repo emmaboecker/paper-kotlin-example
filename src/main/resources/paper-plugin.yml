@@ -1,0 +1,9 @@
+api-version: '1.19'
+
+# Change all of these to your plugin's information
+name: ExamplePlugin
+version: '0.1.0'
+main: org.example.plugin.ExamplePlugin
+loader: org.example.plugin.ExamplePluginLoader
+description: Paper Example Plugin
+authors: [You, Me]
