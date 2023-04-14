@@ -5,7 +5,7 @@ plugins {
     id("xyz.jpenilla.run-paper") version "2.0.1"
 }
 
-group = "net.stckoverflw"
+group = "org.example"
 version = "0.1.0"
 
 repositories {
