@@ -1,7 +1,7 @@
 plugins {
     java
     kotlin("jvm") version "1.8.20"
-    id("io.papermc.paperweight.userdev") version "1.5.4"
+    id("io.papermc.paperweight.userdev") version "1.5.5"
     id("xyz.jpenilla.run-paper") version "2.1.0"
 }
 
