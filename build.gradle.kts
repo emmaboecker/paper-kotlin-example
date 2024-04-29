@@ -13,12 +13,12 @@ repositories {
 }
 
 dependencies {
-    paperweight.paperDevBundle("1.19.4-R0.1-SNAPSHOT")
+    paperweight.paperDevBundle("1.20.5-R0.1-SNAPSHOT")
 
     implementation("net.axay:kspigot:1.20.3")
 }
 
-val javaVersion = 17
+val javaVersion = 21
 
 tasks {
     // Configure reobfJar to run when invoking the build task

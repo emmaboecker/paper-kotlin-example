@@ -1,4 +1,4 @@
-api-version: '1.19'
+api-version: '1.20'
 
 # Change all of these to your plugin's information
 name: ExamplePlugin
