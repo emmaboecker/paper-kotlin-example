@@ -2,7 +2,7 @@ plugins {
     java
     kotlin("jvm") version "1.9.23"
     id("io.papermc.paperweight.userdev") version "1.6.2"
-    id("xyz.jpenilla.run-paper") version "2.2.3"
+    id("xyz.jpenilla.run-paper") version "2.2.4"
 }
 
 group = "org.example"
